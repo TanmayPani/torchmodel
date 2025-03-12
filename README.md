@@ -37,4 +37,9 @@ Easiest usage is with the [uv package manager](https://docs.astral.sh/uv/#uv).
                                                                  #dont need,
                                                                  #add whatever you do
    ```
+9. Run your script using
+   ```
+   uv run main.py 
+   ```
+   Replace `main` with your code's file name
 
